@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome All To My Portfolio </span>
                 <h1>{`Hi! I'm Ahmad E. Mohamed,`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "FullStack Web Developer", "FrontEnd Developer", "BackEnd Developer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Hello Everyone , I have 3 years of Experience in Web Development </p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => window.location.assign("/React-Proj-11#connect")}>Let’s Connnect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
