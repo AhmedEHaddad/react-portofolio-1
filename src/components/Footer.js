@@ -20,7 +20,7 @@ export const Footer = () => {
               <a href="https://www.facebook.com/Ahmad.mMohamed.9?mibextid=LQQJ4d"><img src={navIcon2} alt="Icon" /></a>
               <a href="#"><img src={navIcon3} alt="Icon" /></a>
             </div>
-            <p> --Copyrights 2016--  All Rights Reserved here By Ahmad E. Mohamed </p>
+            <p> --Copyrights 2024--  All Rights Reserved here By Ahmad E. Mohamed </p>
           </Col>
         </Row>
       </Container>
